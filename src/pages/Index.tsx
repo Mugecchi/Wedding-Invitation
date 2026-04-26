@@ -10,18 +10,15 @@ import GallerySection from "@/components/wedding/GallerySection";
 import FooterSection from "@/components/wedding/FooterSection";
 
 const Index = () => (
-  <main className="overflow-x-hidden">
-    <HeroSection />
-    <OurStorySection />
-    <CeremonySection />
-    <ReceptionSection />
-    <DressCodeSection />
-    <RSVPSection />
-    <GiftRegistrySection />
-    <AccommodationSection />
-    <GallerySection />
-    <FooterSection />
-  </main>
+	<main className="overflow-x-hidden">
+		<HeroSection />
+		<OurStorySection />
+		<CeremonySection />
+		<ReceptionSection />
+		<DressCodeSection />
+		<RSVPSection />
+		<FooterSection />
+	</main>
 );
 
 export default Index;
