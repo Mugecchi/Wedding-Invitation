@@ -100,6 +100,9 @@ const RSVPSection = () => {
 						</button>
 					</form>
 				)}
+				<span className="font-body text-muted-foreground mt-8 mb-8">
+					Strictly no plus one
+				</span>
 			</motion.div>
 		</section>
 	);
