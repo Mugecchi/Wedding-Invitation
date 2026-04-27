@@ -21,7 +21,7 @@ const CeremonySection = () => (
 			<div className="mt-8 space-y-4">
 				<div className="flex items-center justify-center gap-2 text-muted-foreground">
 					<Clock className="w-5 h-5 text-gold" />
-					<p className="font-body text-lg">3:00 PM — Saturday, May 15, 2026</p>
+					<p className="font-body text-lg">3:00 PM — Friday, May 15, 2026</p>
 				</div>
 				<div className="flex items-center justify-center gap-2 text-muted-foreground">
 					<MapPin className="w-5 h-5 text-gold" />
