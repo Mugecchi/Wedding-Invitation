@@ -4,7 +4,7 @@ import GoldSeparator from "./GoldSeparator";
 
 const hotels = [
 	{
-		name: "JAPI Traveller's hotel",
+		name: "Japi Traveller's Hotel AMADO HALL",
 		distance: "Maharlika Hwy · Sillawit, Cauayan City",
 	},
 ];

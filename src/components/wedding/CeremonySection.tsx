@@ -25,7 +25,7 @@ const CeremonySection = () => (
 				</div>
 				<div className="flex items-center justify-center gap-2 text-muted-foreground">
 					<MapPin className="w-5 h-5 text-gold" />
-					<p className="font-body text-lg">Japi Traveller's Hotel</p>
+					<p className="font-body text-lg">Japi Traveller's Hotel AMADO HALL</p>
 				</div>
 				<p className="font-body text-muted-foreground">
 					Maharlika Hwy - Brgy Sillawit, Cauayan City Isabela
